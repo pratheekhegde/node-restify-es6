@@ -19,6 +19,11 @@
     "rimraf": "^2.6.2"
   },
   "dependencies": {
-    "restify": "^6.0.1"
+    "bunyan": "^1.8.12",
+    "mongoose": "^4.12.0",
+    "mongoose-string-query": "^0.2.5",
+    "mongoose-timestamp": "^0.6.0",
+    "restify": "^6.0.1",
+    "restify-errors": "^5.0.0"
   }
 }
